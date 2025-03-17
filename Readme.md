@@ -1,4 +1,4 @@
-# CrptoHack Hacked 💀
+# CryptoHack Hacked 💀
 
 This repository is created as part of the course : Cryptography at IIT Jodhpur. It lists all solutions for the following challenges:
 
@@ -7,4 +7,4 @@ This repository is created as part of the course : Cryptography at IIT Jodhpur. 
 3. [Diffie Hellman](https://cryptohack.org/challenges/diffie-hellman/)
 4. [RSA](https://cryptohack.org/challenges/rsa/)
 
-The repository is private which means the solutions listed here are not intended to be used for any unfair practices on the [CryptoHack platform](https://cryptohack.org/)
+The repository is private which means the solutions listed here are not intended to be used for any unfair practices on the [CryptoHack platform](https://cryptohack.org/).
