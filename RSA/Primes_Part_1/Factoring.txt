@@ -1,0 +1,9 @@
+Go to this link : https://www.wolframalpha.com/widgets/view.jsp?id=8eb9becbba23d2ccdccddd9ac3f4a02d
+
+Put the number : 510143758735509025530880200653196460532653147
+
+Hit the submit button
+
+It will return two prime factors : 19704762736204164635843×25889363174021185185929 (2 distinct prime factors)
+
+The smaller of the two is the answer : 19704762736204164635843
